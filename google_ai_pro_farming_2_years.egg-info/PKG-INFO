@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: google-ai-pro-farming-2-years
+Version: 0.1.0
+Summary: Local multi-account browser automation console
+Requires-Python: >=3.11
+License-File: LICENSE
+Requires-Dist: fastapi>=0.115
+Requires-Dist: python-multipart>=0.0.9
+Requires-Dist: uvicorn>=0.30
+Requires-Dist: jinja2>=3.1
+Requires-Dist: pydantic>=2.8
+Requires-Dist: pydantic-settings>=2.4
+Requires-Dist: aiosqlite>=0.20
+Requires-Dist: psutil>=6.0
+Requires-Dist: playwright>=1.48
+Dynamic: license-file
